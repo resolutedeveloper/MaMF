@@ -330,7 +330,7 @@ export default function HomeHeaderSection() {
                                     key={i}
                                     variant="outline"
                                     className={cn(
-                                        "rounded-md border text-base py-8 px-8 min-w-32 font-semibold text-[#005C53] hover:bg-[#005C53] hover:text-white flex items-center gap-2",
+                                        "rounded-md border text-base py-8 px-4 min-w-32 font-semibold text-[#005C53] hover:bg-[#005C53] hover:text-white flex items-center gap-2",
                                         i === 0 && "bg-[#005C53] text-white"
                                     )}
                                 >
