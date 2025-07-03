@@ -9,12 +9,10 @@ Follow the steps below to set up the project on your local machine:
 
 ### 1. Clone the Repository
 
-
 git clone https://github.com/resolutedeveloper/MaMF
 ````
 
 ### 2. Navigate to the Project Directory
-
 
 cd MaMF
 ```
@@ -25,21 +23,15 @@ cd MaMF
 
 Make sure you have [Node.js](https://nodejs.org/) installed. Then run:
 
-
 npm install
 ```
 
 ### 4. Start the Development Server
 
-
 npm run dev
 ```
-
 This will launch a local development server with auto-reloading and an instant preview.
 
 ```
 
 ---
-
-You can now copy and paste this directly into your `README.md` file. Let me know if you'd like to add a project description, stack info (e.g., React, Vue, etc.), or any badges.
-```
